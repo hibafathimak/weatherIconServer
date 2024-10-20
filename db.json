@@ -1,0 +1,288 @@
+{
+    "weatherIcons":[
+            {
+                
+                "text" : "Sunny",
+                "url":"https://basmilius.github.io/weather-icons/production/fill/all/clear-day.svg"
+            },
+            {
+                
+                "text" : "Clear",
+                "url":"https://basmilius.github.io/weather-icons/production/fill/all/clear-night.svg"
+            },
+            {
+                "text" : "Partly cloudy",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night.svg"
+            },
+            {
+                "text" : "Cloudy",
+                "day":"https://basmilius.github.io/weather-icons/production/fill/all/cloudy.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/cloudy.svg"
+
+            },
+            {
+                "text" : "Overcast",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-day.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-night.svg"
+
+            },
+            {
+                "text" : "Mist",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/fog.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/fog.svg"
+            },
+            {
+                "text" : "Patchy rain possible",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg"
+            },
+            {
+                "text" : "Patchy snow possible",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg"
+
+            },
+            {
+                "text" : "Patchy sleet possible",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/sleet.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/sleet.svg"
+
+            },
+            {
+                "text" : "Patchy freezing drizzle possible",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg"
+            },
+            {
+                "text" : "Thundery outbreaks possible",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/lightning-bolt.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/lightning-bolt.svg"
+            },
+            {
+                "text" : "Blowing snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/snowflake.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/snowflake.svg"
+
+            },
+            {
+                "text" : "Blizzard",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/snowflake.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/snowflake.svg"
+
+            },
+            {
+                "text" : "Fog",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/fog-day.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/fog-night.svg"
+
+            },
+            {
+               "text" : "Freezing fog",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-fog.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-fog.svg"
+
+            },
+            {
+               "text" : "Patchy light drizzle",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle-fog.svg"
+
+            },
+            {
+                "text" : "Light drizzle",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg"
+
+            },
+            {
+                "text" : "Freezing drizzle",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg"
+
+            },
+            {
+              "text" : "Heavy freezing drizzle",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg"
+
+            },
+            {
+                "text" : "Patchy light rain",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
+
+            },
+            {
+                "text" : "Light rain",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
+
+            },
+            {
+                "text" : "Moderate rain at times",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
+
+            },
+            {
+                "text" : "Moderate rain",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg"
+
+            },
+            {
+                "text" : "Heavy rain at times",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
+            },
+            {
+                "text" : "Heavy rain",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg"
+
+            },
+            {
+                "text" :  "Light freezing rain",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy freezing rain",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg"
+            },
+            {
+                "text" : "Light sleet",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-sleet.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-sleet.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy sleet",
+                "day":"https://basmilius.github.io/weather-icons/production/fill/all/sleet.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/sleet.svg"
+            },
+            {
+                "text" : "Patchy light snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg"
+
+            },
+            {
+                "text" : "Light snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg"
+            },
+            {
+                "text" : "Patchy moderate snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg"
+
+            },
+            {
+                "text" : "Moderate snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg"
+
+            },
+            {
+                "text" : "Patchy heavy snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg"
+
+            },
+            {
+                "text" : "Heavy snow",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/snow.svg"
+
+            },
+            {
+                "text" : "Ice pellets",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/hail.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/hail-snow.svg"
+
+            },
+            {
+                "text" : "Light rain shower",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy rain shower",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg"
+
+            },
+            {
+                "text" : "Torrential rain shower",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg"
+
+            },
+            {
+                "text" : "Light sleet showers",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-sleet.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-sleet.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy sleet showers",
+               "day" : "https://basmilius.github.io/weather-icons/production/fill/all/sleet.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/sleet.svg"
+
+            },
+            {
+                "text" : "Light snow showers",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy snow showers",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg"
+
+            },
+            {
+                "text" : "Light showers of ice pellets",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-hail.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-hail.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy showers of ice pellets",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/hail.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/hail.svg"
+
+            },
+            {
+                "text" : "Patchy light rain with thunder",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg"
+
+            },
+            {
+                "text" :  "Moderate or heavy rain with thunder",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-night-rain.svg"
+
+            },
+            {
+                "text" : "Patchy light snow with thunder",
+              "day" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-snow.svg"
+
+            },
+            {
+                "text" : "Moderate or heavy snow with thunder",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-day-snow.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/thunderstorms-night-snow.svg"
+
+            }
+        
+    ]
+}
