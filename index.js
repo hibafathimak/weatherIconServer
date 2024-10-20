@@ -8,8 +8,8 @@ const middleware=jsonServer.defaults()
 
 const PORT = 3000 || process.env.PORT
 
-weatherIconServer.use(router)
 weatherIconServer.use(middleware)
+weatherIconServer.use(router)
 
 weatherIconServer.listen(PORT,()=>{
     console.log(`MP Server has started at port ${PORT} and waiting for client request`);
