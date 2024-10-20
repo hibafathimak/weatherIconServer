@@ -114,6 +114,12 @@
 
             },
             {
+                "text" : "Patchy rain nearby",
+                "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
+                "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
+
+            },
+            {
                 "text" : "Light rain",
                 "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-rain.svg",
                 "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-rain.svg"
