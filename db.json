@@ -11,7 +11,7 @@
                 "url":"https://basmilius.github.io/weather-icons/production/fill/all/clear-night.svg"
             },
             {
-                "text" : "Partly Cloudy",
+                "text" : "Partly Cloudy ",
                 "day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day.svg",
                 "night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night.svg"
             },
